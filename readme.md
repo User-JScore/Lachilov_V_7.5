@@ -1,1 +1,1 @@
-https://user-jscore.github.io/Lachilov.V_7.5/
+https://user-jscore.github.io/Lachilov_V_7.5/
